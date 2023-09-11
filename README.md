@@ -30,5 +30,5 @@
   “status_code”: “200”<br/>
 }
 
-## the Technology Used to Solve this Task 
+## The Technology Used to Solve this Task 
 - Ruby
